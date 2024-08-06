@@ -1,0 +1,3 @@
+C:\Users\pearc02338\Documents\Projects\TestBackupCleaner\Backup
+C:\Users\pearc02338\Documents\Projects\TestBackupCleaner\PWSQL-SVR1
+C:\Users\pearc02338\Documents\Projects\TestBackupCleaner\SPISVR6
